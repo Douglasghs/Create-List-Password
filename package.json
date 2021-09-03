@@ -1,0 +1,22 @@
+{
+  "name": "create-list-password",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Lista.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Douglasghs/Create-List-Password.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Douglasghs/Create-List-Password/issues"
+  },
+  "homepage": "https://github.com/Douglasghs/Create-List-Password#readme",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
